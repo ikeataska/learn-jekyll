@@ -1,27 +1,84 @@
 .wrapper {
 	margin: 50px auto;
-	max-width: 800px;
+	max-width: 900px;
 	padding: 20px;
 }
 
 .header {
+	display: block;
+	position: fixed;
+	z-index: 99;
+	height: 28px;
+	border-top: 1px solid #999;
+	background-color: #cedff2;
 	padding: 30px 0;
-	border-bottom: solid;
+	font: 300 112px/110px "atrament", "proxima-nova", Helvetica, sans-serif;
+	
+}
+
+.title {
+  color: red;
+  font: 300 112px/110px "atrament", "proxima-nova", Helvetica, sans-serif;
 }
 
 .content {
-	float: right;
-	width: 75%;
-	border-left: solid;
-	padding-left: 30px;
+	width: 90%;
+    margin: 80px auto 24px auto;
+	padding: 30px 1.5em 1.5em;
+	border-width: 1px;
+    border-style: solid;
+    border-color: #444;
+    border-radius: 7px;
+    z-index: auto;
 }
 
 nav {
 	float: left;
 	width: 15%;
+	position: fixed;
+}
+
+.active {
+    background-color: #FFFFFF;
+    color: black;
 }
 
 nav ul {
 	list-style-type: none;
-	padding: 0;
+	margin: 1px;
+    padding: 20px;
+    width: 150px;
+    background-color: #000000;
+}
+
+li a {
+    display: block;
+    color: #000000;
+    padding: 8px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+
+html { 
+  font-size: 90%; 
+  background: #eed;
+}
+
+* {
+  box-sizing: 90%;
+}
+
+body {
+  margin: 0;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue", Sans-Serif;
+  font: 85% / 2;
+  background-color: #ffff00;
+}
+
+a {
+  color: #000000;
 }
