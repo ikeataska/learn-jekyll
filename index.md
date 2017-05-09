@@ -2,7 +2,7 @@
 layout: page
 title: Home
 ---
-
+ 
 # Vítejte!
 
 Harry Bruce, Ph.D., je profesorem a současným děkanem Informační školy na Washingtonské univerzitě. Ve výzkumu se zajímá o informační chování, vyhledávání informací, správu osobních informací a síťová informační prostředí. Je autorem mnoha publikací zaměřujících se na informační chování a informační vědu.
@@ -26,3 +26,4 @@ Harry Bruce, Ph.D., je profesorem a současným děkanem Informační školy na 
     </li>
   {% endfor %}
 </ul>
+
