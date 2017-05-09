@@ -3,32 +3,11 @@ layout: page
 title: Home
 ---
 
-# Hello World! (It works!)
+# Vítejte!
 
-This are the contents of the Jekyll front page.
+Harry Bruce, Ph.D., je profesorem a současným děkanem Informační školy na Washingtonské univerzitě. Ve výzkumu se zajímá o informační chování, vyhledávání informací, správu osobních informací a síťová informační prostředí. Je autorem mnoha publikací zaměřujících se na informační chování a informační vědu.
 
-## Something to read: Sonnet LXVI.
-
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
-
-## Posts
-
-See the posts:
+## Příspěvky
 
 <ul>
   {% for post in site.posts %}
@@ -38,9 +17,7 @@ See the posts:
   {% endfor %}
 </ul>
 
-## Pages
-
-And even normal pages:
+## Kategorie
 
 <ul>
   {% for page in site.pages %}
