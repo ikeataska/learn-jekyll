@@ -69,7 +69,7 @@ html {
 }
 
 * {
-  box-sizing: 90%;
+  box-sizing: content-box;
 }
 
 body {
