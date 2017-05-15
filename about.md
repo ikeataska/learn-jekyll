@@ -13,11 +13,11 @@ Seznámit výše uvedenou cílovou skupinu s životem a dílem Harryho Bruce, zp
 S největší pravděpodobností krátce a výstižně – Harry Bruce.
 
 ### 4. Pět zásadních webových zdrojů
-- https://en.wikipedia.org/wiki/Harry_Bruce_(academic)
-- http://faculty.washington.edu/harryb/
-- https://ischool.uw.edu
-- https://ischool.uw.edu/people/faculty/harryb
-- https://www.linkedin.com/in/harry-bruce-19120851
+-<a href="https://en.wikipedia.org/wiki/Harry_Bruce_(academic)"> https://en.wikipedia.org/wiki/Harry_Bruce_(academic)</a>
+-<a href="http://faculty.washington.edu/harryb/"> http://faculty.washington.edu/harryb/</a>
+-<a href="https://ischool.uw.edu"> https://ischool.uw.edu</a>
+-<a href="https://ischool.uw.edu/people/faculty/harryb"> https://ischool.uw.edu/people/faculty/harryb</a>
+-<a href="https://www.linkedin.com/in/harry-bruce-19120851"> https://www.linkedin.com/in/harry-bruce-19120851</a>
 
 ### 5. Newebové zdroje 
 - New Directions in Human Information Behavior. 2006, 00008. ISBN 9781402036675.
@@ -31,7 +31,7 @@ S největší pravděpodobností krátce a výstižně – Harry Bruce.
 Fešák.
 
 ### 7. Vizualizace webu 
-Inspirujeme se nejspíš webem http://wiki.knihovna.cz/index.php/Kategorie:Významné_osobnosti_informačních_studií_a_knihovnictví, ale pokusíme do toho takzvaně vložit vlastní duši.
+Inspirujeme se nejspíš webem <a href="http://wiki.knihovna.cz/index.php/Kategorie:Významné_osobnosti_informačních_studií_a_knihovnictví">http://wiki.knihovna.cz/index.php/Kategorie:Významné_osobnosti_informačních_studií_a_knihovnictví</a>, ale pokusíme do toho takzvaně vložit vlastní duši.
 
 ### 8. Základní obsah
 - úvod
